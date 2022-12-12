@@ -11,7 +11,7 @@ static int scanNumber() {
     Scanner scan = new Scanner(System.in);
     int number = scan.nextInt();
     return number;
-    // scan.close(); Почему не получается закрыть Scanner???
+    // Почему выдаёт ошибку scan?
 }
 
 // метод получения числа операции
