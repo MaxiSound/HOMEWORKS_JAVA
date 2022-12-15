@@ -20,7 +20,7 @@ public class Secondtask {
     }
 
     public static int[] babblSort(int arr[]) throws IOException {
-        Logger loger = Logger.getLogger(task2_2.class.getName());
+        Logger loger = Logger.getLogger(Secondtask.class.getName());
         FileHandler fHandler = new FileHandler("Task2.txt");
         SimpleFormatter sFormatter = new SimpleFormatter();
         fHandler.setFormatter(sFormatter);
