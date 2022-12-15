@@ -1,4 +1,4 @@
-package Sixthwork
+package Sixthwork;
 
 import java.util.HashMap;
 import java.util.HashSet;
