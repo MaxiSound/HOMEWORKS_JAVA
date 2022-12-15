@@ -7,7 +7,7 @@ public class NoteBooks {
     private String operatingSystem;
     private String colour;
 
-    public Notebook(String name, String ram, String hardDisk, String operatingSystem, String colour) {
+    public NoteBooks(String name, String ram, String hardDisk, String operatingSystem, String colour) {
         this.name = name;
         this.ram = ram;
         this.hardDisk = hardDisk;
