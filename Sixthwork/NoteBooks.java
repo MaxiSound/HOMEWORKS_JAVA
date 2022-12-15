@@ -1,4 +1,4 @@
-package Sixthwork
+package Sixthwork;
 
 public class NoteBooks {
     private String name;
