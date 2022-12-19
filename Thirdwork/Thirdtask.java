@@ -30,7 +30,7 @@ public class Thirdtask {
 
         double result = sum / count;
 
-        System.out.printf("Минимальное: %d, максимальное: %d, среднее арифметичское: %f", min, max, result);
+        System.out.printf("Минимальное: %d, Максимальное: %d, Среднее арифметичское: %f", min, max, result);
 
     }
 
